@@ -53,7 +53,5 @@ Hi, I'm Hamilton Silva or Massango, a passionate self-taught frontEnd and backen
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tiohs&show_icons=true" alt="Hamilton Silva"/>
-<a href="https://github.com/tiohs/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tiohs&layout=compact" />
-</a>
+
 </p>
